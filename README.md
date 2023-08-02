@@ -1,8 +1,8 @@
 ## Hi, I'm Patrícia! 💙
 <div align="left">
-  <a href="https://github.com/patriciaszbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciaszbr&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaszbr&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github.com/tricia-sz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tricia-sz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tricia-sz&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <!-- ICONES DAS TECHS QUE TRABALHO/ESTUDO -->
 <div style="display: inline_block"><br>
