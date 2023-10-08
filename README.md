@@ -31,7 +31,7 @@
   <!-- <a href="https://instagram.com/y_trixia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:patricia.sz.br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
    <a href="https://discord.gg/y_trixia#3997" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://open.spotify.com/user/96lhix616mvop06x7fy6eak3e?si=b9432b27f20a4461" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+ 
  <a href="https://www.linkedin.com/in/patr%C3%ADcia-souza-261304177/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a> 
 </div>
     
