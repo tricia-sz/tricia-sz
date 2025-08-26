@@ -2,8 +2,8 @@
 <div align="left">
   <a href="https://github.com/tricia-sz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tricia-sz&show_icons=true&theme=transparent&text_color=778899&title_color=006AFF&ring_color=006AFF&rank_icon=github&icon_color=006AFF&custom_title=Trícia_Developer:"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tricia-sz&layout=donut&langs_count=7&theme=transparent&text_color=778899&"/>
-    
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=donut&langs_count=7&theme=transparent&text_color=778899&"/>
+   
 </div>
 <div>
 
