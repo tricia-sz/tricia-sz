@@ -1,4 +1,4 @@
-# Welcome! 🩵 I'm Patrícia 💙
+# Welcome! I'm Patrícia 💙
 <div align="left">
  
 <div align="left">
