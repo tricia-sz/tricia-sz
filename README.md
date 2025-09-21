@@ -1,5 +1,5 @@
 # Welcome! I'm Patrícia 💙
-## Portfólio: <a href="https://tricia-sz.netlify.app/" target="_blank">tricia-sz.netlify.app</a>
+## Portfólio: <a  target="_blank" href="https://tricia-sz.netlify.app/">tricia-sz.netlify.app</a>
 <div align="left">
  
 <div align="left">
