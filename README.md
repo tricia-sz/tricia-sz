@@ -1,5 +1,6 @@
 # Welcome! I'm Patrícia 💙
-## Portfólio: <a  target="_blank" href="https://tricia-sz.netlify.app/">tricia-sz.netlify.app</a>
+## Portfólio: [tricia-sz.netlify.app](https://tricia-sz.netlify.app)
+
 <div align="left">
  
 <div align="left">
