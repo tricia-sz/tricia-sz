@@ -15,18 +15,22 @@
    <img align="center" alt="Tricia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
    <img align="center" alt="Trixia-Nextjs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
    <img align="center" alt="Tricia-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-   <img align="center" alt="Tricia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+   <!-- <img align="center" alt="Tricia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> -->
    <img  align="center" alt="Tricia-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-   <img  align="center" alt="Tricia-Gopher"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+   <!-- <img  align="center" alt="Tricia-Gopher"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/> -->
    <!-- <img align="center" alt="Tricia-Go"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
-   <img align="center" alt="Tricia-Solidity"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
+   <img align="center" alt="Tricia-Solidity"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg"/>
+   <img align="center" alt="Tricia-Rust"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> 
+   
+          
+
 </div>
   
 <!-- ICONES DAS REDES SOCIAIS -->
 <div>
       <a href="https://www.linkedin.com/in/patr%C3%ADcia-souza-261304177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-       <a href = "mailto:patricia.sz.br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
-       <a href="https://discord.gg/y_trixia#3997" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-     <a href="https://www.linkedin.com/in/patr%C3%ADcia-souza-261304177/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a> 
+       <!-- <a href = "mailto:patricia.sz.br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a> -->
+       <!-- <a href="https://discord.gg/y_trixia#3997" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
+     <!-- <a href="https://www.linkedin.com/in/patr%C3%ADcia-souza-261304177/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a>  -->
 </div>
     
