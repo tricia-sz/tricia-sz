@@ -13,12 +13,14 @@
    <img align="center" alt="Tricia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="Tricia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
    <img align="center" alt="Tricia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-   <img align="center" alt="Trixia-Nextjs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+   <!-- <img align="center" alt="Trixia-Nextjs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> -->
    <img align="center" alt="Tricia-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-   <!-- <img align="center" alt="Tricia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> -->
+    
+
    <img  align="center" alt="Tricia-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
    <!-- <img  align="center" alt="Tricia-Gopher"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/> 
    <img align="center" alt="Tricia-Go"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
+   <img align="center" alt="Tricia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
    <img align="center" alt="Tricia-Solidity"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg"/>
    <!-- <img align="center" alt="Tricia-Rust"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />  -->
    
