@@ -1,6 +1,6 @@
 # Welcome! I'm Patrícia 💙
 
-## 🌐 Web Site[tricia-sz.netlify.app](https://tricia-sz.netlify.app)
+## 🌐 Portfólio: [tricia-sz.netlify.app](https://tricia-sz.netlify.app)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tricia-sz&show_icons=true&theme=transparent&text_color=778899&title_color=006AFF&ring_color=006AFF&rank_icon=github&icon_color=006AFF&custom_title=Trícia_Developer)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tricia-sz&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=tricia-sz&layout=compact&langs_count=10&theme=transparent)
